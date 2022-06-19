@@ -1,0 +1,288 @@
+StatusPernikahan,JenisKelamin,StatusKepegawaian,Pekerjaan,JenjangKarir,PerformancePegawai,AsalDaerah,HiringPlatform,SkorSurveyEngagement,SkorKepuasanPegawai,JumlahKeikutsertaanProjek,JumlahKeterlambatanSebulanTerakhir,JumlahKetidakhadiran,TingkatPendidikan,AlasanResign,TanggalLahir,TanggalHiring,TanggalPenilaianKaryawan,TanggalResign,Departemen,Resign,JarakResign,JarakPenilaian
+Tidak_berpasangan,Pria,Outsource,Software Engineer (Back End),Freshgraduate_program,Sangat_bagus,Jakarta Timur,Employee_Referral,4,4,0,0,9,Magister,masih_bekerja,1972-07-01,2011-01-10,2016-02-15,,Software,0,0.0,1862
+Tidak_berpasangan,Pria,FullTime,Data Analyst,Freshgraduate_program,Sangat_kurang,Jakarta Utara,Website,4,4,4,0,3,Sarjana,toxic_culture,1984-04-26,2014-01-06,2020-01-17,2018-06-16,Data,1,1622.0,2202
+Berpasangan,Pria,FullTime,Software Engineer (Front End),Freshgraduate_program,Bagus,Jakarta Timur,Indeed,4,3,0,0,11,Magister,jam_kerja,1974-01-07,2011-01-10,2016-01-10,2014-09-24,Software,1,1353.0,1826
+Tidak_berpasangan,Pria,Outsource,Software Engineer (Front End),Freshgraduate_program,Bagus,Jakarta Pusat,LinkedIn,3,3,0,4,6,Sarjana,masih_bekerja,1979-11-24,2014-02-17,2020-02-04,,Software,0,0.0,2178
+Tidak_berpasangan,Wanita,FullTime,Product Manager,Freshgraduate_program,Bagus,Jakarta Timur,LinkedIn,3,3,0,0,11,Sarjana,ganti_karir,1974-11-07,2013-11-11,2020-01-22,2018-09-06,Product,1,1760.0,2263
+Tidak_berpasangan,Wanita,Outsource,Software Engineer (Front End),Senior_level,Biasa,Jakarta Selatan,Indeed,3,4,6,0,10,Sarjana,masih_bekerja,1980-05-12,2016-10-02,2020-02-06,,Software,0,0.0,1222
+Berpasangan,Wanita,FullTime,Data Analyst,Freshgraduate_program,Biasa,Jakarta Utara,LinkedIn,2,3,4,0,19,Sarjana,masih_bekerja,1979-05-24,2014-11-10,2020-01-02,,Data,0,0.0,1879
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Back End),Senior_level,Kurang,Jakarta Selatan,LinkedIn,2,5,0,0,4,Magister,masih_bekerja,1983-08-24,2013-07-08,2020-01-14,,Software,0,0.0,2381
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Android),Senior_level,Sangat_kurang,Jakarta Selatan,Employee_Referral,3,4,0,0,5,Magister,masih_bekerja,1980-08-26,2016-07-06,2020-02-28,,Software,0,0.0,1332
+Berpasangan,Wanita,FullTime,Software Engineer (Android),Freshgraduate_program,Sangat_bagus,Jakarta Pusat,Indeed,4,5,6,0,4,Sarjana,masih_bekerja,1984-02-21,2015-03-30,2020-01-03,,Software,0,0.0,1740
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Front End),Mid_level,Kurang,Jakarta Timur,CareerBuilder,3,2,0,3,3,Sarjana,ganti_karir,1975-12-17,2010-07-20,2020-01-14,2019-01-12,Software,1,3098.0,3465
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Back End),Senior_level,Sangat_bagus,Jakarta Barat,CareerBuilder,1,5,0,5,2,Magister,tidak_bahagia,1989-07-18,2011-07-05,2016-02-06,2018-09-19,Software,1,2633.0,1677
+Berpasangan,Pria,FullTime,Software Engineer (Back End),Freshgraduate_program,Biasa,Jakarta Pusat,LinkedIn,4,3,0,0,50,Magister,masih_bekerja,1988-08-10,2013-11-11,2020-01-08,,Software,0,0.0,2249
+Berpasangan,Wanita,Outsource,Software Engineer (Back End),Freshgraduate_program,Bagus,Jakarta Selatan,LinkedIn,3,4,0,0,12,Sarjana,masih_bekerja,1983-12-02,2011-05-16,2020-02-26,,Software,0,0.0,3208
+Berpasangan,Wanita,FullTime,Software Engineer (Back End),Freshgraduate_program,Biasa,Jakarta Selatan,Indeed,3,4,0,0,3,Sarjana,ganti_karir,1983-08-27,2011-06-27,2016-03-10,2019-04-06,Software,1,2840.0,1718
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Front End),Senior_level,Sangat_kurang,Jakarta Utara,LinkedIn,3,3,0,0,0,Doktor,toxic_culture,1985-03-15,2011-01-10,2015-01-05,2019-08-04,Software,1,3128.0,1456
+Berpasangan,Pria,FullTime,Product Manager,Freshgraduate_program,Bagus,Jakarta Pusat,Diversity_Job_Fair,3,4,0,0,12,Sarjana,masih_bekerja,1976-12-03,2012-01-09,2020-01-31,,Product,0,0.0,2944
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Android),Freshgraduate_program,Sangat_bagus,Jakarta Barat,LinkedIn,3,4,0,0,11,Sarjana,masih_bekerja,1986-11-06,2011-07-05,2020-02-25,,Software,0,0.0,3157
+Tidak_berpasangan,Wanita,FullTime,Data Analyst,Freshgraduate_program,Sangat_bagus,Jakarta Pusat,Diversity_Job_Fair,3,4,0,0,17,Sarjana,internal_conflict,1968-05-30,2012-04-02,2017-02-05,2017-09-12,Data,1,1989.0,1770
+Lainnya,Pria,FullTime,Software Engineer (Back End),Freshgraduate_program,Biasa,Jakarta Utara,Indeed,1,2,0,4,9,Sarjana,masih_bekerja,1967-04-19,2014-07-07,2020-01-31,,Software,0,0.0,2034
+Berpasangan,Wanita,FullTime,Product Manager,Senior_level,Sangat_bagus,Jakarta Utara,LinkedIn,4,5,0,0,15,Sarjana,masih_bekerja,1977-05-22,2012-01-09,2020-01-07,,Product,0,0.0,2920
+Lainnya,Wanita,FullTime,Scrum Master,Mid_level,Sangat_kurang,Jakarta Barat,Indeed,3,4,0,0,0,Sarjana,masih_bekerja,1981-03-26,2011-07-05,2019-03-02,,Scrum Master,0,0.0,2797
+Berpasangan,Pria,Outsource,Product Design (UX Researcher),Freshgraduate_program,Bagus,Jakarta Selatan,LinkedIn,3,3,0,0,7,Magister,masih_bekerja,1979-03-19,2013-07-08,2020-02-18,,Product,0,0.0,2416
+Tidak_berpasangan,Wanita,Outsource,Software Engineer (Back End),Freshgraduate_program,Bagus,Jakarta Pusat,LinkedIn,3,3,0,0,19,Doktor,masih_bekerja,1990-10-01,2015-03-30,2020-01-16,,Software,0,0.0,1753
+Tidak_berpasangan,Wanita,Outsource,Product Design (UI & UX),Freshgraduate_program,Bagus,Jakarta Timur,CareerBuilder,1,3,0,2,3,Sarjana,ganti_karir,1990-09-21,2011-04-04,2020-02-27,2016-04-04,Product,1,1827.0,3251
+Tidak_berpasangan,Pria,FullTime,Product Manager,Freshgraduate_program,Biasa,Jakarta Pusat,Diversity_Job_Fair,2,4,6,4,13,Magister,ganti_karir,1986-10-05,2012-02-15,2020-02-22,2018-02-19,Product,1,2196.0,2929
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Back End),Freshgraduate_program,Bagus,Jakarta Barat,CareerBuilder,4,3,0,0,15,Magister,masih_bekerja,1972-08-27,2011-01-10,2014-01-30,,Software,0,0.0,1116
+Berpasangan,Wanita,FullTime,Software Engineer (Front End),Senior_level,Biasa,Jakarta Selatan,LinkedIn,3,5,0,0,15,Sarjana,Tidak_cocok,1987-04-10,2016-07-06,2020-01-28,2016-08-07,Software,1,32.0,1301
+Tidak_berpasangan,Wanita,Outsource,Software Engineer (Back End),Freshgraduate_program,Kurang,Jakarta Selatan,Employee_Referral,3,3,0,0,16,Sarjana,ganti_karir,1965-02-02,2013-11-11,2020-01-24,2015-06-15,Software,1,581.0,2265
+Berpasangan,Wanita,FullTime,Software Engineer (Back End),Mid_level,Biasa,Jakarta Utara,LinkedIn,4,3,7,0,0,Doktor,masih_bekerja,1973-05-27,2015-01-05,2019-02-13,,Software,0,0.0,1500
+Berpasangan,Pria,FullTime,Software Engineer (Android),Freshgraduate_program,Kurang,Jakarta Timur,Indeed,4,4,0,0,14,Sarjana,masih_bekerja,1977-10-31,2011-05-16,2017-04-02,,Software,0,0.0,2148
+Tidak_berpasangan,Pria,Outsource,Software Engineer (Front End),Mid_level,Bagus,Jakarta Barat,Diversity_Job_Fair,3,4,0,0,4,Magister,masih_bekerja,1984-11-06,2011-02-21,2015-04-19,,Software,0,0.0,1518
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Android),Mid_level,Kurang,Jakarta Pusat,Indeed,1,5,0,6,15,Magister,ganti_karir,1989-10-18,2015-05-11,2020-01-03,2016-08-02,Software,1,449.0,1698
+Tidak_berpasangan,Wanita,Outsource,Software Engineer (Front End),Freshgraduate_program,Biasa,Jakarta Pusat,LinkedIn,3,3,6,0,7,Magister,masih_bekerja,1981-04-14,2014-09-30,2020-01-07,,Software,0,0.0,1925
+Tidak_berpasangan,Wanita,Outsource,Software Engineer (Back End),Freshgraduate_program,Biasa,Jakarta Utara,LinkedIn,3,3,0,0,2,Sarjana,masih_bekerja,1988-07-10,2014-09-29,2020-02-18,,Software,0,0.0,1968
+Berpasangan,Wanita,FullTime,Software Engineer (Back End),Mid_level,Biasa,Jakarta Pusat,LinkedIn,3,3,0,0,20,Magister,masih_bekerja,1986-05-25,2014-05-12,2020-02-07,,Software,0,0.0,2097
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Front End),Mid_level,Bagus,Jakarta Timur,Google_Search,2,5,0,1,19,Sarjana,masih_bekerja,1964-06-01,2011-08-15,2014-02-10,,Software,0,0.0,910
+Tidak_berpasangan,Pria,FullTime,Product Manager,Freshgraduate_program,Bagus,Jakarta Barat,Google_Search,3,4,0,0,7,Sarjana,masih_bekerja,1983-07-20,2012-02-20,2020-02-14,,Product,0,0.0,2916
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Front End),Freshgraduate_program,Sangat_bagus,Jakarta Pusat,Indeed,2,5,0,0,15,Sarjana,masih_bekerja,1983-03-19,2009-01-05,2020-02-04,,Software,0,0.0,4047
+Tidak_berpasangan,Wanita,FullTime,Digital Product Manager,Freshgraduate_program,Bagus,Jakarta Timur,Indeed,3,4,0,0,19,Sarjana,masih_bekerja,1982-03-28,2013-08-19,2020-02-12,,Product,0,0.0,2368
+Tidak_berpasangan,Pria,Outsource,Product Design (UI & UX),Freshgraduate_program,Sangat_kurang,Jakarta Selatan,LinkedIn,3,4,0,0,13,Magister,masih_bekerja,1979-04-06,2013-07-08,2020-01-11,,Product,0,0.0,2378
+Lainnya,Pria,Outsource,Software Engineer (Back End),Freshgraduate_program,Bagus,Jakarta Selatan,Indeed,3,3,0,0,4,Magister,masih_bekerja,1963-10-30,2014-09-29,2020-01-28,,Software,0,0.0,1947
+Tidak_berpasangan,Wanita,Outsource,Product Design (UI & UX),Freshgraduate_program,Sangat_bagus,Jakarta Barat,Google_Search,4,5,0,0,12,Sarjana,masih_bekerja,1970-10-27,2011-04-04,2020-01-14,,Product,0,0.0,3207
+Lainnya,Wanita,FullTime,Software Engineer (Back End),Freshgraduate_program,Bagus,Jakarta Barat,Indeed,3,5,0,0,4,Magister,masih_bekerja,1967-06-05,2013-02-18,2020-01-14,,Software,0,0.0,2521
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Front End),Freshgraduate_program,Bagus,Jakarta Barat,LinkedIn,1,3,0,5,16,Magister,masih_bekerja,1979-08-12,2011-07-11,2017-05-01,,Software,0,0.0,2121
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Back End),Senior_level,Sangat_bagus,Jakarta Pusat,Indeed,3,4,0,0,18,Doktor,masih_bekerja,1989-05-12,2010-09-27,2020-01-31,,Software,0,0.0,3413
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Front End),Mid_level,Sangat_bagus,Jakarta Barat,Employee_Referral,2,5,0,0,17,Sarjana,kejelasan_karir,1970-06-11,2012-05-14,2020-01-19,2017-11-15,Software,1,2011.0,2806
+Tidak_berpasangan,Wanita,FullTime,Product Design (UI & UX),Senior_level,Bagus,Jakarta Barat,Website,4,3,0,0,6,Sarjana,masih_bekerja,1975-10-22,2015-02-16,2020-01-23,,Product,0,0.0,1802
+Tidak_berpasangan,Wanita,FullTime,Product Design (UI & UX),Freshgraduate_program,Biasa,Jakarta Pusat,LinkedIn,3,4,0,0,18,Magister,masih_bekerja,1984-07-07,2013-04-01,2020-01-17,,Product,0,0.0,2482
+Tidak_berpasangan,Wanita,Outsource,Software Engineer (Back End),Senior_level,Bagus,Jakarta Timur,Indeed,4,3,0,0,19,Magister,tidak_bahagia,1989-09-01,2014-07-07,2020-02-27,2015-01-07,Software,1,184.0,2061
+Berpasangan,Wanita,FullTime,Product Design (UI & UX),Freshgraduate_program,Sangat_kurang,Jakarta Pusat,Indeed,3,3,0,0,2,Sarjana,ganti_karir,1958-12-27,2013-08-19,2020-01-10,2013-09-26,Product,1,38.0,2335
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Back End),Freshgraduate_program,Biasa,Jakarta Pusat,Indeed,3,4,0,0,1,Sarjana,masih_bekerja,1982-11-15,2014-05-12,2020-02-19,,Software,0,0.0,2109
+Lainnya,Wanita,Outsource,Software Engineer (Back End),Freshgraduate_program,Biasa,Jakarta Utara,Indeed,3,5,0,0,7,Sarjana,masih_bekerja,1992-06-18,2013-11-11,2020-02-18,,Software,0,0.0,2290
+Lainnya,Wanita,FullTime,Product Design (UI & UX),Freshgraduate_program,Biasa,Jakarta Timur,Diversity_Job_Fair,4,4,3,0,0,Magister,tidak_bahagia,1987-04-04,2015-02-16,2020-02-18,2018-09-23,Product,1,1315.0,1828
+Lainnya,Wanita,FullTime,Data Analyst,Mid_level,Sangat_bagus,Jakarta Barat,LinkedIn,4,5,0,0,0,Sarjana,masih_bekerja,1987-05-21,2015-03-30,2020-02-07,,Data,0,0.0,1775
+Berpasangan,Wanita,FullTime,Software Engineer (Back End),Freshgraduate_program,Biasa,Jakarta Barat,Indeed,3,4,0,0,10,Sarjana,masih_bekerja,1971-10-23,2015-02-16,2016-01-20,,Software,0,0.0,338
+Tidak_berpasangan,Wanita,Outsource,Product Manager,Mid_level,Sangat_bagus,Jakarta Barat,Indeed,4,4,0,0,8,Doktor,masih_bekerja,1977-11-22,2011-05-31,2020-01-10,,Product,0,0.0,3146
+Tidak_berpasangan,Wanita,Outsource,Product Design (UI & UX),Freshgraduate_program,Sangat_bagus,Jakarta Utara,LinkedIn,2,2,0,6,3,Sarjana,masih_bekerja,1980-09-30,2014-03-31,2019-03-09,,Product,0,0.0,1804
+Tidak_berpasangan,Wanita,Outsource,Software Engineer (Front End),Freshgraduate_program,Kurang,Jakarta Barat,Google_Search,4,5,0,0,14,Doktor,masih_bekerja,1975-03-10,2013-09-30,2020-02-06,,Software,0,0.0,2320
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Front End),Freshgraduate_program,Kurang,Jakarta Utara,Diversity_Job_Fair,3,5,0,0,11,Magister,masih_bekerja,1975-04-03,2009-04-27,2013-02-15,,Software,0,0.0,1390
+Lainnya,Wanita,FullTime,Software Engineer (Front End),Senior_level,Biasa,Jakarta Utara,Indeed,3,3,4,0,6,Sarjana,masih_bekerja,1985-09-16,2015-02-16,2016-04-15,,Software,0,0.0,424
+Tidak_berpasangan,Pria,Outsource,Software Engineer (Front End),Mid_level,Sangat_bagus,Jakarta Pusat,Diversity_Job_Fair,3,5,0,0,20,Sarjana,masih_bekerja,1969-02-24,2011-03-07,2020-01-17,,Software,0,0.0,3238
+Lainnya,Wanita,FullTime,Software Engineer (Back End),Freshgraduate_program,Biasa,Jakarta Utara,LinkedIn,2,5,0,4,18,Sarjana,masih_bekerja,1983-05-16,2014-02-17,2020-02-11,,Software,0,0.0,2185
+Berpasangan,Wanita,FullTime,Software Engineer (Front End),Freshgraduate_program,Biasa,Jakarta Timur,Google_Search,2,4,0,0,14,Sarjana,masih_bekerja,1984-10-15,2011-05-16,2019-04-02,,Software,0,0.0,2878
+Lainnya,Wanita,FullTime,Data Engineer,Freshgraduate_program,Sangat_bagus,Jakarta Pusat,Google_Search,1,3,0,0,6,Sarjana,masih_bekerja,1973-09-23,2010-04-26,2020-01-21,,Data,0,0.0,3557
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Back End),Freshgraduate_program,Kurang,Jakarta Pusat,Google_Search,3,3,5,0,4,Sarjana,tidak_bahagia,1966-11-22,2011-08-15,2020-01-21,2018-06-08,Software,1,2489.0,3081
+Tidak_berpasangan,Pria,FullTime,Data Engineer,Freshgraduate_program,Biasa,Jakarta Utara,CareerBuilder,3,3,0,2,7,Sarjana,masih_bekerja,1963-08-28,2011-09-06,2020-01-27,,Data,0,0.0,3065
+Tidak_berpasangan,Pria,Outsource,Software Engineer (Back End),Mid_level,Kurang,Jakarta Barat,Employee_Referral,3,3,0,0,0,Doktor,masih_bekerja,1985-09-15,2015-03-30,2020-02-18,,Software,0,0.0,1786
+Lainnya,Wanita,FullTime,Software Engineer (Front End),Mid_level,Biasa,Jakarta Selatan,Indeed,4,4,0,0,6,Doktor,tidak_bisa_remote,1978-12-02,2013-01-07,2020-01-18,2017-11-04,Software,1,1762.0,2567
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Front End),Freshgraduate_program,Bagus,Jakarta Pusat,Google_Search,3,5,0,0,9,Sarjana,masih_bekerja,1981-08-31,2011-05-16,2013-05-03,,Software,0,0.0,718
+Lainnya,Wanita,Outsource,Software Engineer (Android),Mid_level,Kurang,Jakarta Selatan,Indeed,3,3,6,0,2,Magister,masih_bekerja,1986-07-24,2012-11-05,2020-02-13,,Software,0,0.0,2656
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Back End),Freshgraduate_program,Biasa,Jakarta Timur,Employee_Referral,3,3,0,0,3,Magister,masih_bekerja,1978-08-25,2014-03-31,2020-01-11,,Software,0,0.0,2112
+Tidak_berpasangan,Pria,FullTime,Software Engineer (iOS),Mid_level,Bagus,Jakarta Barat,Indeed,2,3,0,6,5,Sarjana,masih_bekerja,1975-11-02,2014-09-29,2020-01-30,,Software,0,0.0,1949
+Tidak_berpasangan,Wanita,Outsource,Software Engineer (Android),Freshgraduate_program,Sangat_kurang,Jakarta Pusat,Indeed,4,5,0,0,7,Doktor,masih_bekerja,1963-05-15,2014-08-18,2020-01-21,,Software,0,0.0,1982
+Tidak_berpasangan,Wanita,Outsource,Product Design (UI & UX),Freshgraduate_program,Bagus,Jakarta Utara,Google_Search,3,4,5,0,8,Sarjana,masih_bekerja,1986-04-04,2014-07-07,2016-01-15,,Product,0,0.0,557
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Front End),Mid_level,Biasa,Jakarta Selatan,LinkedIn,4,3,0,0,2,Sarjana,masih_bekerja,1979-05-21,2012-07-02,2020-01-14,,Software,0,0.0,2752
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Front End),Mid_level,Bagus,Jakarta Pusat,Employee_Referral,2,5,0,0,4,Magister,masih_bekerja,1985-01-28,2013-07-08,2020-02-11,,Software,0,0.0,2409
+Berpasangan,Wanita,FullTime,Software Engineer (Back End),Senior_level,Sangat_bagus,Jakarta Pusat,LinkedIn,4,3,0,0,4,Magister,masih_bekerja,1976-08-25,2016-05-11,2020-01-21,,Software,0,0.0,1350
+Tidak_berpasangan,Pria,FullTime,Data Analyst,Mid_level,Sangat_bagus,Jakarta Barat,Employee_Referral,4,4,0,0,19,Sarjana,masih_bekerja,1983-02-18,2013-09-30,2020-02-25,,Data,0,0.0,2339
+Lainnya,Wanita,FullTime,Software Engineer (Back End),Freshgraduate_program,Bagus,Jakarta Utara,LinkedIn,3,4,0,0,4,Sarjana,masih_bekerja,1986-06-10,2012-02-20,2020-01-07,,Software,0,0.0,2878
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Back End),Senior_level,Biasa,Jakarta Pusat,Indeed,2,5,5,0,9,Doktor,internal_conflict,1986-09-01,2014-09-29,2020-01-18,2019-06-06,Software,1,1711.0,1937
+Lainnya,Pria,FullTime,Data Engineer,Freshgraduate_program,Kurang,Jakarta Barat,Employee_Referral,3,5,0,0,3,Sarjana,masih_bekerja,1977-09-08,2013-07-08,2020-01-14,,Data,0,0.0,2381
+Tidak_berpasangan,Wanita,Outsource,Software Engineer (Back End),Freshgraduate_program,Biasa,Jakarta Barat,Indeed,3,5,0,0,3,Doktor,masih_bekerja,1988-05-31,2011-10-03,2020-01-30,,Software,0,0.0,3041
+Tidak_berpasangan,Wanita,FullTime,Product Design (UI & UX),Freshgraduate_program,Biasa,Jakarta Pusat,CareerBuilder,3,3,6,0,6,Sarjana,masih_bekerja,1979-04-04,2015-02-16,2020-02-11,,Product,0,0.0,1821
+Tidak_berpasangan,Pria,Outsource,Software Engineer (Front End),Senior_level,Kurang,Jakarta Barat,Google_Search,4,4,0,5,16,Magister,toxic_culture,1983-09-02,2012-04-02,2019-04-12,2020-09-27,Software,1,3100.0,2566
+Lainnya,Wanita,FullTime,Software Engineer (Front End),Freshgraduate_program,Biasa,Jakarta Barat,Google_Search,4,3,0,0,7,Magister,apresiasi,1991-09-05,2011-04-04,2018-04-09,2020-02-25,Software,1,3249.0,2562
+Berpasangan,Wanita,Outsource,Data Analyst,Freshgraduate_program,Sangat_bagus,Jakarta Timur,Indeed,3,5,7,0,2,Sarjana,toxic_culture,1987-06-14,2016-10-02,2020-01-08,2017-03-15,Data,1,164.0,1193
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Front End),Freshgraduate_program,Sangat_bagus,Jakarta Timur,Diversity_Job_Fair,3,2,6,0,14,Sarjana,masih_bekerja,1987-11-24,2008-10-27,2020-01-15,,Software,0,0.0,4097
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Back End),Freshgraduate_program,Biasa,Jakarta Timur,CareerBuilder,2,5,0,0,15,Sarjana,masih_bekerja,1986-10-07,2012-04-02,2020-02-19,,Software,0,0.0,2879
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Back End),Mid_level,Sangat_bagus,Jakarta Pusat,Google_Search,3,4,0,0,6,Magister,internal_conflict,1990-08-24,2012-04-02,2014-03-04,2018-05-17,Software,1,2236.0,701
+Berpasangan,Pria,FullTime,Software Engineer (Back End),Freshgraduate_program,Sangat_bagus,Jakarta Pusat,Indeed,3,4,3,2,2,Sarjana,masih_bekerja,1988-04-15,2018-07-09,2020-01-31,,Software,0,0.0,571
+Lainnya,Pria,Outsource,Scrum Master,Freshgraduate_program,Kurang,Jakarta Barat,CareerBuilder,3,4,0,0,9,Magister,masih_bekerja,1959-08-19,2011-11-07,2019-02-14,,Scrum Master,0,0.0,2656
+Berpasangan,Wanita,Outsource,Software Engineer (Back End),Freshgraduate_program,Biasa,Jakarta Timur,LinkedIn,4,3,0,0,17,Sarjana,masih_bekerja,1952-02-11,2012-05-14,2014-07-02,,Software,0,0.0,779
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Back End),Freshgraduate_program,Kurang,Jakarta Timur,Indeed,2,5,0,0,9,Doktor,jam_kerja,1988-09-14,2014-08-18,2020-01-30,2015-06-24,Software,1,310.0,1991
+Berpasangan,Pria,FullTime,Software Engineer (Android),Senior_level,Bagus,Jakarta Barat,Google_Search,4,5,0,0,10,Magister,ganti_karir,1982-10-07,2015-01-05,2020-01-24,2015-01-09,Software,1,4.0,1845
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Front End),Mid_level,Sangat_bagus,Jakarta Utara,Google_Search,3,3,0,0,9,Sarjana,tidak_bisa_remote,1983-07-28,2014-09-29,2020-02-01,2020-08-19,Software,1,2151.0,1951
+Berpasangan,Wanita,FullTime,Software Engineer (Android),Freshgraduate_program,Bagus,Jakarta Pusat,LinkedIn,3,4,0,0,19,Sarjana,masih_bekerja,1966-03-17,2014-05-05,2020-01-21,,Software,0,0.0,2087
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Back End),Freshgraduate_program,Biasa,Jakarta Selatan,Indeed,4,5,5,0,15,Sarjana,masih_bekerja,1980-07-05,2011-04-15,2020-01-07,,Software,0,0.0,3189
+Lainnya,Wanita,FullTime,Software Engineer (Front End),Mid_level,Sangat_kurang,Jakarta Barat,Website,1,1,0,2,17,Sarjana,masih_bekerja,1987-05-14,2012-02-20,2020-01-29,,Software,0,0.0,2900
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Front End),Freshgraduate_program,Sangat_kurang,Jakarta Timur,Indeed,3,3,0,0,17,Sarjana,masih_bekerja,1980-02-02,2011-01-10,2020-01-21,,Software,0,0.0,3298
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Back End),Freshgraduate_program,Biasa,Jakarta Pusat,LinkedIn,3,4,0,0,14,Sarjana,masih_bekerja,1986-07-07,2014-01-06,2020-02-26,,Software,0,0.0,2242
+Tidak_berpasangan,Wanita,FullTime,Data Engineer,Mid_level,Kurang,Jakarta Pusat,Google_Search,3,3,0,0,18,Sarjana,masih_bekerja,1976-09-22,2011-02-21,2014-02-01,,Data,0,0.0,1076
+Berpasangan,Pria,Outsource,Data Analyst,Freshgraduate_program,Sangat_bagus,Jakarta Barat,Google_Search,3,3,0,0,20,Sarjana,toxic_culture,1984-05-09,2012-04-02,2014-02-20,2018-06-08,Data,1,2258.0,689
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Back End),Senior_level,Sangat_kurang,Jakarta Barat,Diversity_Job_Fair,3,4,0,0,2,Sarjana,jam_kerja,1970-05-15,2011-11-07,2017-04-29,2018-11-15,Software,1,2565.0,2000
+Tidak_berpasangan,Wanita,Outsource,Software Engineer (Front End),Senior_level,Sangat_bagus,Jakarta Barat,Indeed,4,3,0,0,14,Magister,toxic_culture,1991-01-28,2013-08-19,2020-01-14,2017-09-05,Software,1,1478.0,2339
+Tidak_berpasangan,Wanita,FullTime,Data Analyst,Freshgraduate_program,Bagus,Jakarta Timur,Indeed,3,3,0,0,1,Sarjana,Tidak_Resign,1970-04-24,2013-05-13,2020-01-14,,Data,0,0.0,2437
+Lainnya,Wanita,FullTime,Data Analyst,Freshgraduate_program,Bagus,Jakarta Barat,CareerBuilder,4,3,0,0,20,Sarjana,toxic_culture,1987-01-07,2013-01-07,2020-01-30,2014-08-19,Data,1,589.0,2579
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Android),Freshgraduate_program,Bagus,Jakarta Timur,CareerBuilder,3,5,5,0,8,Sarjana,masih_bekerja,1979-07-05,2012-01-09,2020-01-25,,Software,0,0.0,2938
+Tidak_berpasangan,Wanita,FullTime,Data Analyst,Freshgraduate_program,Biasa,Jakarta Timur,CareerBuilder,4,4,0,0,10,Sarjana,toxic_culture,1976-09-22,2015-03-30,2020-01-21,2014-08-19,Data,1,-223.0,1758
+Berpasangan,Pria,FullTime,Product Design (UI & UX),Freshgraduate_program,Sangat_kurang,Jakarta Pusat,Other,4,5,0,0,1,Sarjana,masih_bekerja,1977-07-15,2012-09-24,2018-03-02,,Product,0,0.0,1985
+Tidak_berpasangan,Wanita,FullTime,DevOps Engineer,Freshgraduate_program,Sangat_kurang,Jakarta Pusat,Employee_Referral,3,4,6,0,16,Sarjana,masih_bekerja,1988-07-18,2015-01-05,2020-02-25,,Software,0,0.0,1877
+Lainnya,Wanita,FullTime,Software Engineer (Back End),Senior_level,Biasa,Jakarta Pusat,Indeed,3,5,0,0,16,Sarjana,masih_bekerja,1970-09-22,2012-09-24,2014-04-02,,Software,0,0.0,555
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Back End),Mid_level,Sangat_bagus,Jakarta Utara,Google_Search,3,3,0,0,15,Sarjana,ganti_karir,1981-11-23,2007-11-05,2020-02-25,2013-05-30,Software,1,2033.0,4495
+Lainnya,Wanita,FullTime,Product Design (UI & UX),Freshgraduate_program,Biasa,Jakarta Utara,Indeed,4,5,0,0,2,Sarjana,masih_bekerja,1989-03-31,2013-07-08,2020-01-25,,Product,0,0.0,2392
+Tidak_berpasangan,Wanita,FullTime,Scrum Master,Freshgraduate_program,Sangat_bagus,Jakarta Timur,Google_Search,3,4,0,0,6,Sarjana,masih_bekerja,1970-10-08,2011-09-26,2014-01-30,,Scrum Master,0,0.0,857
+Lainnya,Wanita,FullTime,Software Engineer (Front End),Mid_level,Biasa,Jakarta Pusat,Google_Search,4,5,0,0,55,Sarjana,masih_bekerja,1973-01-12,2011-11-28,2020-02-11,,Software,0,0.0,2997
+Berpasangan,Wanita,FullTime,Software Engineer (Front End),Senior_level,Bagus,Jakarta Timur,Indeed,4,5,0,0,6,Magister,masih_bekerja,1977-03-31,2015-01-05,2020-02-14,,Software,0,0.0,1866
+Tidak_berpasangan,Wanita,Outsource,Software Engineer (Front End),Freshgraduate_program,Biasa,Jakarta Pusat,Google_Search,4,4,0,0,7,Sarjana,masih_bekerja,1979-05-01,2011-02-07,2014-03-04,,Software,0,0.0,1121
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Back End),Senior_level,Sangat_bagus,Jakarta Barat,LinkedIn,4,5,0,0,15,Sarjana,masih_bekerja,1975-09-30,2012-10-02,2020-02-14,,Software,0,0.0,2691
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Front End),Freshgraduate_program,Sangat_bagus,Jakarta Timur,CareerBuilder,4,3,5,0,11,Magister,tidak_bisa_remote,1988-05-05,2015-01-05,2016-04-15,2016-01-11,Software,1,371.0,466
+Tidak_berpasangan,Pria,FullTime,Product Design (UI & UX),Freshgraduate_program,Kurang,Jakarta Barat,Indeed,4,3,6,0,17,Magister,masih_bekerja,1970-04-25,2017-02-10,2020-02-25,,Product,0,0.0,1110
+Berpasangan,Pria,FullTime,Software Engineer (Back End),Freshgraduate_program,Biasa,Jakarta Pusat,Indeed,3,5,7,0,8,Magister,kejelasan_karir,1972-02-09,2016-09-06,2020-01-15,2016-10-31,Software,1,55.0,1226
+Tidak_berpasangan,Wanita,Outsource,Software Engineer (Android),Mid_level,Kurang,Jakarta Timur,LinkedIn,3,4,0,0,14,Sarjana,masih_bekerja,1979-03-10,2012-04-02,2020-01-14,,Software,0,0.0,2843
+Lainnya,Wanita,Outsource,Software Engineer (Back End),Freshgraduate_program,Sangat_kurang,Jakarta Utara,Google_Search,3,5,0,0,5,Magister,masih_bekerja,1967-01-16,2011-01-10,2015-03-04,,Software,0,0.0,1514
+Tidak_berpasangan,Pria,FullTime,Product Design (UI & UX),Freshgraduate_program,Sangat_bagus,Jakarta Utara,Diversity_Job_Fair,3,3,0,0,19,Sarjana,Tidak_cocok,1989-05-02,2011-09-26,2014-03-02,2017-12-15,Product,1,2272.0,888
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Front End),Freshgraduate_program,Bagus,Jakarta Utara,Google_Search,3,4,0,0,9,Sarjana,masih_bekerja,1982-08-25,2011-01-10,2020-02-07,,Software,0,0.0,3315
+Lainnya,Wanita,FullTime,Software Engineer (Back End),Mid_level,Bagus,Jakarta Timur,CareerBuilder,4,4,0,0,8,Magister,masih_bekerja,1952-08-18,2012-01-09,2016-05-02,,Software,0,0.0,1575
+Lainnya,Wanita,FullTime,Data Engineer,Freshgraduate_program,Sangat_kurang,Jakarta Utara,Google_Search,4,3,0,0,3,Sarjana,jam_kerja,1953-05-24,2011-05-16,2018-04-18,2015-06-18,Data,1,1494.0,2529
+Tidak_berpasangan,Pria,Outsource,Software Engineer (Android),Mid_level,Biasa,Jakarta Selatan,CareerBuilder,4,3,0,0,4,Doktor,masih_bekerja,1954-10-12,2014-05-12,2020-01-28,,Software,0,0.0,2087
+Lainnya,Pria,FullTime,Software Engineer (Android),Freshgraduate_program,Sangat_kurang,Jakarta Timur,LinkedIn,4,4,0,0,6,Magister,kejelasan_karir,1979-09-14,2011-11-07,2020-02-27,2014-04-07,Software,1,882.0,3034
+Tidak_berpasangan,Wanita,Outsource,Software Engineer (Back End),Mid_level,Bagus,Jakarta Selatan,Indeed,3,5,0,0,6,Doktor,masih_bekerja,1977-05-09,2010-10-25,2016-03-05,,Software,0,0.0,1958
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Front End),Freshgraduate_program,Kurang,Jakarta Selatan,LinkedIn,4,5,0,0,9,Sarjana,masih_bekerja,1964-04-13,2014-01-06,2020-01-21,,Software,0,0.0,2206
+Tidak_berpasangan,Wanita,Outsource,Data Engineer,Freshgraduate_program,Sangat_bagus,Jakarta Pusat,LinkedIn,3,4,5,0,1,Magister,apresiasi,1968-07-06,2010-05-01,2020-02-01,2017-04-15,Data,1,2541.0,3563
+Tidak_berpasangan,Wanita,Outsource,Software Engineer (iOS),Mid_level,Bagus,Jakarta Selatan,Diversity_Job_Fair,1,4,0,5,4,Magister,masih_bekerja,1968-06-06,2016-07-04,2020-02-18,,Software,0,0.0,1324
+Lainnya,Pria,FullTime,Software Engineer (Front End),Freshgraduate_program,Sangat_bagus,Jakarta Pusat,Website,4,3,0,0,16,Sarjana,masih_bekerja,1988-12-27,2012-04-30,2020-01-29,,Software,0,0.0,2830
+Tidak_berpasangan,Pria,Outsource,Data Engineer,Freshgraduate_program,Sangat_bagus,Jakarta Selatan,Diversity_Job_Fair,1,4,0,2,16,Sarjana,masih_bekerja,1984-08-16,2014-05-18,2020-01-16,,Data,0,0.0,2069
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Back End),Freshgraduate_program,Sangat_bagus,Jakarta Timur,LinkedIn,1,3,6,3,2,Sarjana,tidak_bahagia,1987-06-18,2015-03-30,2020-02-04,2015-04-01,Software,1,2.0,1772
+Tidak_berpasangan,Wanita,Outsource,Software Engineer (Front End),Mid_level,Kurang,Jakarta Utara,Diversity_Job_Fair,4,4,5,0,14,Sarjana,tidak_bahagia,1988-10-05,2011-01-21,2020-01-25,2014-09-24,Software,1,1342.0,3291
+Lainnya,Pria,FullTime,Software Engineer (Back End),Freshgraduate_program,Kurang,Jakarta Selatan,Google_Search,3,5,0,0,7,Sarjana,masih_bekerja,1974-12-21,2009-01-05,2019-02-05,,Software,0,0.0,3683
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Back End),Freshgraduate_program,Sangat_bagus,Jakarta Pusat,Google_Search,3,5,0,4,15,Sarjana,masih_bekerja,1988-03-17,2011-01-10,2018-04-06,,Software,0,0.0,2643
+Tidak_berpasangan,Wanita,Outsource,Software Engineer (Back End),Senior_level,Sangat_bagus,Jakarta Timur,Employee_Referral,4,4,5,0,11,Magister,masih_bekerja,1981-04-16,2015-01-05,2020-01-28,,Software,0,0.0,1849
+Lainnya,Pria,FullTime,Software Engineer (Front End),Freshgraduate_program,Sangat_bagus,Jakarta Timur,Indeed,3,5,0,0,13,Doktor,masih_bekerja,1972-07-03,2011-07-05,2013-01-06,,Software,0,0.0,551
+Berpasangan,Wanita,Outsource,Software Engineer (Android),Senior_level,Sangat_kurang,Jakarta Selatan,Indeed,3,4,0,0,12,Sarjana,masih_bekerja,1978-03-28,2009-01-08,2020-01-24,,Software,0,0.0,4033
+Berpasangan,Pria,FullTime,Software Engineer (Front End),Freshgraduate_program,Sangat_bagus,Jakarta Pusat,Indeed,2,3,6,0,2,Sarjana,tidak_bisa_remote,1986-08-26,2015-03-30,2020-01-22,2020-04-29,Software,1,1857.0,1759
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Front End),Freshgraduate_program,Bagus,Jakarta Timur,LinkedIn,3,5,0,0,17,Magister,masih_bekerja,1978-09-22,2014-07-07,2020-02-22,,Software,0,0.0,2056
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Back End),Senior_level,Bagus,Jakarta Pusat,Indeed,2,5,0,0,16,Sarjana,masih_bekerja,1984-02-16,2011-08-15,2013-03-05,,Software,0,0.0,568
+Tidak_berpasangan,Wanita,FullTime,Product Design (UI & UX),Senior_level,Bagus,Jakarta Timur,Employee_Referral,3,3,0,0,16,Sarjana,tidak_bahagia,1966-04-17,2016-07-21,2020-01-14,2018-04-01,Product,1,619.0,1272
+Berpasangan,Wanita,FullTime,Software Engineer (Front End),Freshgraduate_program,Sangat_bagus,Jakarta Timur,LinkedIn,3,5,0,0,20,Sarjana,Tidak_cocok,1969-02-09,2012-03-07,2014-02-01,2016-04-24,Software,1,1509.0,696
+Berpasangan,Wanita,FullTime,Software Engineer (Back End),Mid_level,Bagus,Jakarta Utara,Google_Search,4,4,0,0,11,Magister,masih_bekerja,1951-01-02,2014-09-29,2020-02-12,,Software,0,0.0,1962
+Lainnya,Wanita,Outsource,Software Engineer (Android),Mid_level,Bagus,Jakarta Utara,Website,4,4,0,0,8,Sarjana,masih_bekerja,1974-12-05,2014-01-06,2020-01-31,,Software,0,0.0,2216
+Berpasangan,Wanita,FullTime,Software Engineer (Front End),Senior_level,Biasa,Jakarta Timur,Indeed,1,2,1,6,20,Sarjana,masih_bekerja,1968-07-20,2012-02-20,2020-02-25,,Software,0,0.0,2927
+Lainnya,Pria,FullTime,Software Engineer (Front End),Mid_level,Sangat_bagus,Jakarta Barat,Google_Search,3,4,0,0,1,Sarjana,tidak_bisa_remote,1984-01-04,2012-08-13,2020-02-11,2017-06-04,Software,1,1756.0,2738
+Tidak_berpasangan,Pria,Outsource,Software Engineer (Front End),Freshgraduate_program,Sangat_bagus,Jakarta Utara,Website,4,5,0,0,18,Magister,tidak_bisa_remote,1982-05-19,2015-01-05,2020-01-14,2016-01-09,Software,1,369.0,1835
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Front End),Freshgraduate_program,Bagus,Jakarta Selatan,LinkedIn,2,5,0,0,4,Sarjana,masih_bekerja,1984-07-07,2013-07-08,2020-01-02,,Software,0,0.0,2369
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Back End),Senior_level,Biasa,Jakarta Timur,LinkedIn,3,4,0,0,16,Doktor,masih_bekerja,1973-03-26,2013-05-13,2016-03-02,,Software,0,0.0,1024
+Lainnya,Pria,FullTime,Software Engineer (Front End),Freshgraduate_program,Bagus,Jakarta Pusat,Diversity_Job_Fair,4,4,0,3,15,Sarjana,masih_bekerja,1974-08-09,2012-04-02,2016-01-20,,Software,0,0.0,1388
+Berpasangan,Pria,FullTime,Software Engineer (Back End),Mid_level,Bagus,Jakarta Pusat,Indeed,2,5,0,0,19,Magister,masih_bekerja,1984-12-31,2011-09-26,2019-02-04,,Software,0,0.0,2688
+Tidak_berpasangan,Wanita,Outsource,Software Engineer (Back End),Freshgraduate_program,Bagus,Jakarta Selatan,LinkedIn,4,5,6,0,7,Sarjana,toxic_culture,1986-06-06,2016-06-30,2020-02-18,2017-12-12,Software,1,530.0,1328
+Tidak_berpasangan,Wanita,FullTime,Product Manager,Freshgraduate_program,Bagus,Jakarta Timur,Diversity_Job_Fair,3,4,0,0,12,Sarjana,ganti_karir,1974-01-12,2011-01-10,2017-01-30,2016-03-31,Product,1,1907.0,2212
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Back End),Senior_level,Biasa,Jakarta Selatan,Indeed,4,5,0,0,14,Sarjana,masih_bekerja,1988-11-08,2011-01-10,2020-01-27,,Software,0,0.0,3304
+Berpasangan,Wanita,FullTime,Software Architect,Mid_level,Sangat_bagus,Jakarta Selatan,CareerBuilder,4,4,0,0,5,Sarjana,masih_bekerja,1974-05-02,2014-05-12,2020-02-15,,Software,0,0.0,2105
+Berpasangan,Pria,FullTime,Software Engineer (Back End),Freshgraduate_program,Sangat_bagus,Jakarta Pusat,Diversity_Job_Fair,3,3,4,0,9,Sarjana,tidak_bisa_remote,1983-06-14,2013-02-18,2018-02-12,2015-04-15,Software,1,786.0,1820
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Back End),Freshgraduate_program,Sangat_bagus,Jakarta Pusat,CareerBuilder,3,4,0,0,20,Sarjana,masih_bekerja,1984-06-10,2016-01-05,2020-01-28,,Software,0,0.0,1484
+Tidak_berpasangan,Pria,Outsource,Software Engineer (Front End),Freshgraduate_program,Bagus,Jakarta Utara,LinkedIn,4,3,0,0,14,Sarjana,tidak_bisa_remote,1983-02-02,2014-03-31,2020-02-01,2020-08-19,Software,1,2333.0,2133
+Tidak_berpasangan,Wanita,Outsource,Software Engineer (Back End),Senior_level,Biasa,Jakarta Barat,Google_Search,1,3,0,5,19,Sarjana,masih_bekerja,1989-05-06,2014-02-17,2018-01-15,,Software,0,0.0,1428
+Berpasangan,Pria,Outsource,Software Engineer (Back End),Mid_level,Biasa,Jakarta Pusat,Indeed,2,5,7,0,13,Sarjana,masih_bekerja,1973-04-05,2013-01-20,2020-02-18,,Software,0,0.0,2585
+Tidak_berpasangan,Pria,FullTime,Product Design (UI & UX),Freshgraduate_program,Biasa,Jakarta Pusat,Google_Search,4,4,0,0,13,Sarjana,masih_bekerja,1970-12-22,2012-04-02,2020-01-14,,Product,0,0.0,2843
+Berpasangan,Pria,FullTime,Product Manager,Mid_level,Biasa,Jakarta Utara,Website,2,4,0,0,7,Sarjana,masih_bekerja,1984-07-01,2016-07-06,2020-01-29,,Product,0,0.0,1302
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Back End),Senior_level,Sangat_bagus,Jakarta Timur,Indeed,2,3,6,0,14,Sarjana,tidak_bahagia,1987-10-24,2017-04-20,2020-01-02,2020-09-26,Software,1,1255.0,987
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Back End),Mid_level,Kurang,Jakarta Barat,Indeed,5,4,6,0,3,Sarjana,masih_bekerja,1987-04-05,2013-11-11,2020-01-30,,Software,0,0.0,2271
+Lainnya,Pria,FullTime,Product Design (UI & UX),Mid_level,Biasa,Jakarta Timur,LinkedIn,4,5,0,0,11,Magister,masih_bekerja,1977-04-08,2014-05-12,2020-02-18,,Product,0,0.0,2108
+Tidak_berpasangan,Pria,Internship,Product Manager,Freshgraduate_program,Sangat_bagus,Jakarta Pusat,LinkedIn,2,2,0,6,6,Sarjana,leadership,1985-06-29,2011-08-15,2014-01-14,2018-09-15,Product,1,2588.0,883
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Back End),Senior_level,Sangat_bagus,Jakarta Timur,Indeed,4,4,0,0,8,Sarjana,masih_bekerja,1990-04-19,2014-05-05,2020-01-24,,Software,0,0.0,2090
+Tidak_berpasangan,Wanita,Outsource,Software Engineer (Back End),Freshgraduate_program,Biasa,Jakarta Utara,LinkedIn,3,3,5,0,19,Doktor,masih_bekerja,1973-03-12,2011-06-10,2020-02-08,,Software,0,0.0,3165
+Berpasangan,Pria,FullTime,Software Engineer (Back End),Freshgraduate_program,Biasa,Jakarta Selatan,Indeed,2,4,0,0,18,Sarjana,ganti_karir,1972-11-09,2012-09-24,2018-04-01,2017-11-14,Software,1,1877.0,2015
+Berpasangan,Pria,FullTime,Product Design (UI & UX),Mid_level,Biasa,Jakarta Utara,Employee_Referral,3,3,0,0,10,Sarjana,jam_kerja,1983-03-28,2013-04-01,2017-03-06,2019-09-26,Product,1,2369.0,1435
+Tidak_berpasangan,Pria,Outsource,Software Engineer (Back End),Mid_level,Biasa,Jakarta Pusat,LinkedIn,3,5,5,0,1,Magister,masih_bekerja,1983-05-06,2014-07-07,2020-02-18,,Software,0,0.0,2052
+Berpasangan,Wanita,FullTime,Software Engineer (Front End),Senior_level,Bagus,Jakarta Utara,Other,4,3,2,0,3,Sarjana,masih_bekerja,1979-04-16,2009-01-05,2020-02-08,,Software,0,0.0,4051
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Android),Mid_level,Biasa,Jakarta Pusat,Employee_Referral,3,4,5,0,19,Sarjana,ganti_karir,1984-09-05,2014-12-01,2017-01-16,2014-08-19,Software,1,-104.0,777
+Lainnya,Pria,FullTime,Product Manager,Mid_level,Kurang,Jakarta Barat,Indeed,4,5,6,0,16,Sarjana,masih_bekerja,1988-01-07,2015-01-05,2020-02-18,,Product,0,0.0,1870
+Berpasangan,Wanita,FullTime,Software Engineer (Back End),Mid_level,Bagus,Jakarta Timur,Google_Search,3,5,0,0,1,Magister,masih_bekerja,1983-12-08,2013-09-30,2020-02-21,,Software,0,0.0,2335
+Tidak_berpasangan,Pria,Outsource,Software Engineer (Front End),Freshgraduate_program,Bagus,Jakarta Utara,LinkedIn,4,3,0,0,13,Magister,masih_bekerja,1976-12-11,2013-09-30,2020-02-07,,Software,0,0.0,2321
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Back End),Freshgraduate_program,Kurang,Jakarta Pusat,Indeed,2,4,0,0,10,Sarjana,masih_bekerja,1976-01-19,2013-09-30,2020-01-23,,Software,0,0.0,2306
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Back End),Mid_level,Bagus,Jakarta Timur,Indeed,3,3,0,0,6,Magister,masih_bekerja,1968-01-15,2006-01-09,2020-01-04,,Software,0,0.0,5108
+Lainnya,Wanita,Outsource,Software Engineer (Front End),Mid_level,Bagus,Jakarta Barat,Google_Search,3,5,0,0,2,Magister,leadership,1989-11-11,2011-11-07,2014-03-30,2013-05-30,Software,1,570.0,874
+Tidak_berpasangan,Wanita,Outsource,Software Engineer (Back End),Freshgraduate_program,Kurang,Jakarta Pusat,Indeed,4,3,0,0,1,Magister,masih_bekerja,1990-05-11,2013-09-30,2020-01-25,,Software,0,0.0,2308
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Back End),Freshgraduate_program,Bagus,Jakarta Timur,Indeed,4,3,0,0,14,Sarjana,masih_bekerja,1983-08-09,2016-01-28,2020-02-22,,Software,0,0.0,1486
+Berpasangan,Pria,FullTime,Software Engineer (Back End),Freshgraduate_program,Biasa,Jakarta Barat,Diversity_Job_Fair,2,3,0,3,10,Sarjana,Tidak_Resign,1964-10-12,2010-04-26,2012-03-06,,Software,0,0.0,680
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Android),Freshgraduate_program,Bagus,Jakarta Pusat,Employee_Referral,3,5,0,0,7,Doktor,leadership,1966-03-22,2013-09-30,2020-02-22,2013-05-30,Software,1,-123.0,2336
+Tidak_berpasangan,Wanita,Outsource,Software Engineer (Back End),Freshgraduate_program,Bagus,Jakarta Timur,CareerBuilder,3,4,0,0,4,Sarjana,Tidak_Resign,1986-04-17,2011-01-10,2017-02-03,,Software,0,0.0,2216
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Back End),Senior_level,Bagus,Jakarta Selatan,Employee_Referral,4,4,0,0,3,Sarjana,Tidak_Resign,1980-03-02,2012-03-05,2020-02-21,,Software,0,0.0,2909
+Lainnya,Wanita,FullTime,Data Engineer,Mid_level,Sangat_bagus,Jakarta Utara,Indeed,3,3,0,0,18,Magister,kejelasan_karir,1965-05-07,2014-09-29,2020-01-28,2017-11-15,Data,1,1143.0,1947
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Back End),Freshgraduate_program,Biasa,Jakarta Selatan,Employee_Referral,1,5,0,4,7,Doktor,tidak_bisa_remote,1975-07-07,2014-09-29,2020-01-28,2018-06-08,Software,1,1348.0,1947
+Lainnya,Wanita,FullTime,Software Engineer (Front End),Freshgraduate_program,Biasa,Jakarta Utara,CareerBuilder,4,5,0,0,17,Magister,tidak_bisa_remote,1983-05-21,2011-02-21,2014-06-03,2018-04-01,Software,1,2596.0,1198
+Berpasangan,Wanita,FullTime,Software Engineer (Back End),Freshgraduate_program,Sangat_bagus,Jakarta Timur,CareerBuilder,4,4,0,0,20,Sarjana,tidak_bisa_remote,1987-11-25,2009-10-26,2016-04-02,2014-08-19,Software,1,1758.0,2350
+Lainnya,Pria,FullTime,Software Engineer (Front End),Freshgraduate_program,Sangat_bagus,Jakarta Timur,Employee_Referral,4,3,0,0,2,Sarjana,Tidak_Resign,1981-07-11,2015-06-02,2020-01-04,,Software,0,0.0,1677
+Tidak_berpasangan,Wanita,FullTime,DevOps Engineer,Mid_level,Kurang,Jakarta Barat,Indeed,3,3,5,0,2,Sarjana,Tidak_Resign,1986-11-07,2015-01-05,2020-02-11,,Software,0,0.0,1863
+Berpasangan,Wanita,Outsource,Software Engineer (Back End),Senior_level,Biasa,Jakarta Selatan,LinkedIn,3,3,0,0,1,Sarjana,Tidak_Resign,1969-09-08,2014-07-07,2020-01-11,,Software,0,0.0,2014
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Back End),Freshgraduate_program,Sangat_bagus,Jakarta Utara,Indeed,3,5,5,0,8,Sarjana,Tidak_Resign,1989-06-30,2017-04-20,2020-01-28,,Software,0,0.0,1013
+Berpasangan,Pria,FullTime,Software Engineer (Front End),Freshgraduate_program,Bagus,Jakarta Timur,Indeed,3,3,6,0,2,Sarjana,Tidak_Resign,1985-09-05,2012-09-05,2020-02-27,,Software,0,0.0,2731
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Front End),Senior_level,Sangat_kurang,Jakarta Barat,Google_Search,3,4,0,0,13,Sarjana,Tidak_Resign,1977-03-23,2011-11-28,2020-02-22,,Software,0,0.0,3008
+Berpasangan,Wanita,FullTime,Software Engineer (Back End),Mid_level,Sangat_bagus,Jakarta Timur,Google_Search,4,5,0,0,1,Magister,jam_kerja,1951-02-25,2011-04-04,2016-05-06,2017-11-15,Software,1,2417.0,1859
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Front End),Freshgraduate_program,Biasa,Jakarta Timur,Website,4,3,5,0,2,Magister,kejelasan_karir,1988-05-19,2015-05-01,2020-01-15,2018-06-08,Software,1,1134.0,1720
+Berpasangan,Wanita,FullTime,Software Engineer (Back End),Mid_level,Sangat_bagus,Jakarta Selatan,Website,3,5,0,0,9,Sarjana,Tidak_cocok,1988-08-29,2012-01-09,2020-02-01,2018-04-01,Software,1,2274.0,2945
+Lainnya,Wanita,FullTime,Software Engineer (Front End),Freshgraduate_program,Bagus,Jakarta Timur,Diversity_Job_Fair,3,3,0,0,12,Sarjana,jam_kerja,1967-06-03,2013-04-01,2020-02-13,2014-08-19,Software,1,505.0,2509
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Back End),Senior_level,Biasa,Jakarta Pusat,Indeed,3,3,0,0,14,Sarjana,Tidak_Resign,1970-03-10,2013-09-30,2015-02-20,,Software,0,0.0,508
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Back End),Freshgraduate_program,Bagus,Jakarta Timur,CareerBuilder,4,4,0,0,7,Magister,Tidak_Resign,1971-07-10,2014-07-07,2015-01-15,,Software,0,0.0,192
+Berpasangan,Wanita,FullTime,Software Engineer (Front End),Mid_level,Sangat_bagus,Jakarta Pusat,Indeed,4,3,5,0,17,Sarjana,leadership,1972-11-21,2017-01-07,2020-02-06,2013-05-30,Software,1,-1318.0,1125
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Back End),Mid_level,Sangat_bagus,Jakarta Utara,Google_Search,4,3,0,0,13,Sarjana,Tidak_Resign,1988-03-06,2011-07-05,2013-02-20,,Software,0,0.0,596
+Lainnya,Wanita,Outsource,Software Engineer (Back End),Freshgraduate_program,Sangat_kurang,Jakarta Timur,Indeed,2,4,0,0,3,Magister,Tidak_Resign,1980-05-08,2014-09-29,2020-02-07,,Software,0,0.0,1957
+Lainnya,Wanita,FullTime,Software Engineer (Front End),Freshgraduate_program,Bagus,Jakarta Pusat,Indeed,3,5,0,0,20,Magister,Tidak_Resign,1989-09-22,2015-02-16,2020-01-25,,Software,0,0.0,1804
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Back End),Freshgraduate_program,Biasa,Jakarta Barat,Indeed,2,1,0,2,5,Sarjana,leadership,1989-08-25,2014-07-07,2020-02-25,2017-11-15,Software,1,1227.0,2059
+Berpasangan,Wanita,Internship,Software Engineer (Back End),Freshgraduate_program,Sangat_bagus,Jakarta Selatan,LinkedIn,3,4,0,0,5,Doktor,leadership,1986-07-20,2011-05-16,2015-05-13,2018-06-08,Software,1,2580.0,1458
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Back End),Senior_level,Biasa,Jakarta Timur,Diversity_Job_Fair,3,4,0,0,1,Sarjana,kejelasan_karir,1969-09-29,2011-07-11,2020-02-18,2018-04-01,Software,1,2456.0,3144
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Android),Freshgraduate_program,Biasa,Jakarta Utara,LinkedIn,3,3,0,0,4,Magister,leadership,1985-03-14,2014-02-17,2020-01-11,2014-08-19,Software,1,183.0,2154
+Tidak_berpasangan,Wanita,FullTime,Product Design (UI & UX),Freshgraduate_program,Biasa,Jakarta Pusat,Diversity_Job_Fair,4,4,0,0,17,Magister,Tidak_Resign,1973-02-14,2011-11-07,2016-02-02,,Product,0,0.0,1548
+Tidak_berpasangan,Pria,FullTime,Machine Learning Engineer,Freshgraduate_program,Sangat_bagus,Jakarta Barat,LinkedIn,2,5,7,0,2,Sarjana,Tidak_Resign,1964-07-30,2014-02-17,2017-01-10,,Data,0,0.0,1058
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Front End),Freshgraduate_program,Biasa,Jakarta Pusat,Website,2,2,0,3,5,Sarjana,Tidak_Resign,1974-05-09,2014-05-12,2020-01-17,,Software,0,0.0,2076
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Back End),Mid_level,Sangat_kurang,Jakarta Selatan,LinkedIn,3,5,0,0,8,Magister,Tidak_Resign,1974-05-31,2014-11-10,2020-02-13,,Software,0,0.0,1921
+Tidak_berpasangan,Pria,Outsource,Software Engineer (Android),Mid_level,Sangat_bagus,Jakarta Barat,Diversity_Job_Fair,3,4,6,0,8,Sarjana,Tidak_Resign,1964-01-04,2012-01-09,2016-01-04,,Software,0,0.0,1456
+Tidak_berpasangan,Pria,Outsource,Data Engineer,Freshgraduate_program,Sangat_bagus,Jakarta Utara,LinkedIn,4,4,0,0,11,Magister,Tidak_Resign,1982-07-22,2011-05-16,2016-03-30,,Data,0,0.0,1780
+Berpasangan,Wanita,FullTime,Software Engineer (Back End),Freshgraduate_program,Kurang,Jakarta Barat,Google_Search,3,3,0,0,6,Magister,Tidak_Resign,1983-11-08,2011-04-04,2013-01-07,,Software,0,0.0,644
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Back End),Mid_level,Biasa,Jakarta Barat,Employee_Referral,3,3,0,0,14,Sarjana,Tidak_Resign,1961-06-19,2014-01-06,2020-01-07,,Software,0,0.0,2192
+Lainnya,Wanita,Outsource,Software Engineer (Android),Senior_level,Kurang,Jakarta Barat,Indeed,4,3,0,0,1,Sarjana,Tidak_Resign,1978-11-05,2012-07-02,2020-02-25,,Software,0,0.0,2794
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Back End),Mid_level,Biasa,Jakarta Pusat,Indeed,4,4,0,0,1,Sarjana,Tidak_Resign,1965-05-09,2011-07-05,2017-03-02,,Software,0,0.0,2067
+Berpasangan,Pria,FullTime,Software Engineer (Android),Freshgraduate_program,Bagus,Jakarta Barat,Indeed,3,5,0,0,15,Magister,Tidak_Resign,1977-08-19,2011-04-04,2020-01-14,,Software,0,0.0,3207
+Berpasangan,Wanita,FullTime,Software Engineer (Back End),Freshgraduate_program,Biasa,Jakarta Utara,Indeed,1,5,4,4,19,Sarjana,Tidak_Resign,1987-05-15,2011-05-02,2013-08-10,,Software,0,0.0,831
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Android),Mid_level,Biasa,Jakarta Utara,Google_Search,4,5,0,0,4,Sarjana,Tidak_Resign,1987-03-18,2011-04-04,2019-07-02,,Software,0,0.0,3011
+Tidak_berpasangan,Wanita,Outsource,Product Design (UI & UX),Freshgraduate_program,Bagus,Jakarta Selatan,Indeed,4,3,0,0,20,Magister,leadership,1979-07-25,2013-01-07,2015-02-20,2017-11-15,Product,1,1773.0,774
+Tidak_berpasangan,Wanita,FullTime,Data Analyst,Mid_level,Sangat_bagus,Jakarta Barat,Indeed,4,5,0,0,15,Sarjana,masih_bekerja,1988-09-27,2008-01-07,2020-01-03,,Data,0,0.0,4379
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Back End),Mid_level,Biasa,Jakarta Timur,Employee_Referral,3,5,6,0,15,Sarjana,kejelasan_karir,1981-10-11,2015-02-16,2020-02-14,2018-04-01,Software,1,1140.0,1824
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Back End),Mid_level,Sangat_bagus,Jakarta Selatan,Google_Search,2,3,0,0,16,Sarjana,jam_kerja,1955-04-14,2011-11-07,2017-02-04,2014-08-19,Software,1,1016.0,1916
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Back End),Senior_level,Biasa,Jakarta Timur,Indeed,3,5,0,0,13,Sarjana,Tidak_Resign,1979-11-27,2013-08-19,2020-01-22,,Software,0,0.0,2347
+Tidak_berpasangan,Wanita,FullTime,Data Analyst,Freshgraduate_program,Sangat_bagus,Jakarta Utara,Diversity_Job_Fair,4,3,0,0,4,Magister,toxic_culture,1970-02-11,2009-07-06,2020-01-25,2015-06-05,Data,1,2160.0,3855
+Lainnya,Wanita,FullTime,Software Engineer (Android),Freshgraduate_program,Biasa,Jakarta Selatan,Google_Search,4,5,0,0,19,Doktor,Tidak_Resign,1981-03-16,2012-01-09,2020-01-29,,Software,0,0.0,2942
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Back End),Senior_level,Biasa,Jakarta Barat,Indeed,3,4,0,0,6,Magister,Tidak_Resign,1978-11-25,2010-08-30,2012-05-04,,Software,0,0.0,613
+Tidak_berpasangan,Pria,FullTime,Data Analyst,Mid_level,Kurang,Jakarta Selatan,Diversity_Job_Fair,4,4,5,0,9,Magister,masih_bekerja,1988-07-04,2014-11-10,2020-02-25,,Data,0,0.0,1933
+Lainnya,Wanita,FullTime,Software Engineer (Back End),Freshgraduate_program,Biasa,Jakarta Selatan,Indeed,3,3,0,0,6,Sarjana,Tidak_Resign,1992-05-07,2015-06-05,2020-02-14,,Software,0,0.0,1715
+Tidak_berpasangan,Pria,FullTime,Product Manager,Senior_level,Bagus,Jakarta Utara,Indeed,5,3,6,0,17,Sarjana,Tidak_Resign,1975-05-05,2015-03-30,2017-02-24,,Product,0,0.0,697
+Tidak_berpasangan,Wanita,Outsource,Data Analyst,Freshgraduate_program,Biasa,Jakarta Utara,Google_Search,4,4,0,0,2,Magister,internal_conflict,1989-09-08,2011-07-11,2017-02-01,2017-06-25,Data,1,2176.0,2032
+Lainnya,Pria,Outsource,Software Engineer (Back End),Freshgraduate_program,Bagus,Jakarta Timur,Employee_Referral,4,5,6,0,7,Magister,Tidak_Resign,1986-04-23,2014-11-10,2020-01-07,,Software,0,0.0,1884
+Tidak_berpasangan,Wanita,Outsource,Software Engineer (Front End),Freshgraduate_program,Sangat_bagus,Jakarta Timur,Diversity_Job_Fair,2,4,4,0,17,Sarjana,Tidak_Resign,1987-06-14,2011-09-26,2014-08-15,,Software,0,0.0,1054
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Back End),Freshgraduate_program,Kurang,Jakarta Utara,Employee_Referral,4,3,4,0,5,Sarjana,Tidak_Resign,1965-09-09,2014-11-10,2020-01-02,,Software,0,0.0,1879
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Back End),Freshgraduate_program,Biasa,Jakarta Pusat,LinkedIn,3,5,0,0,3,Sarjana,Tidak_Resign,1974-10-09,2013-08-19,2020-02-15,,Software,0,0.0,2371
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Back End),Senior_level,Bagus,Jakarta Pusat,Google_Search,4,4,0,0,4,Sarjana,Tidak_Resign,1973-11-28,2014-09-18,2020-01-15,,Software,0,0.0,1945
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Front End),Freshgraduate_program,Sangat_bagus,Jakarta Utara,LinkedIn,2,3,0,0,3,Magister,Tidak_Resign,1977-11-10,2014-02-17,2020-02-06,,Software,0,0.0,2180
+Lainnya,Pria,Outsource,Software Engineer (Front End),Freshgraduate_program,Sangat_kurang,Jakarta Pusat,LinkedIn,3,3,5,0,2,Sarjana,kejelasan_karir,1987-12-17,2015-01-05,2016-04-20,2017-11-15,Software,1,1045.0,471
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Front End),Mid_level,Biasa,Jakarta Pusat,Indeed,3,5,5,0,4,Magister,jam_kerja,1970-07-09,2014-01-05,2020-01-04,2018-06-08,Software,1,1615.0,2190
+Tidak_berpasangan,Pria,FullTime,Product Design (UI & UX),Freshgraduate_program,Bagus,Jakarta Utara,Google_Search,4,4,0,0,20,Sarjana,jam_kerja,1981-10-18,2011-02-21,2018-04-05,2018-04-01,Product,1,2596.0,2600
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Back End),Freshgraduate_program,Biasa,Jakarta Selatan,LinkedIn,4,4,0,0,15,Magister,jam_kerja,1985-08-24,2013-08-19,2020-02-15,2014-08-19,Software,1,365.0,2371
+Lainnya,Pria,FullTime,DevOps Engineer,Freshgraduate_program,Bagus,Jakarta Barat,Employee_Referral,3,3,7,0,16,Magister,Tidak_Resign,1970-02-08,2015-01-05,2020-01-14,,Software,0,0.0,1835
+Tidak_berpasangan,Wanita,Outsource,Software Engineer (Front End),Freshgraduate_program,Sangat_bagus,Jakarta Utara,CareerBuilder,4,3,0,0,17,Sarjana,Tidak_Resign,1979-01-17,2011-09-26,2018-07-02,,Software,0,0.0,2471
+Lainnya,Wanita,FullTime,Machine Learning Engineer,Freshgraduate_program,Biasa,Jakarta Selatan,Indeed,4,5,0,0,5,Sarjana,Tidak_Resign,1985-11-23,2014-11-10,2020-01-16,,Data,0,0.0,1893
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Back End),Mid_level,Sangat_kurang,Jakarta Pusat,Indeed,2,5,0,0,13,Sarjana,jam_kerja,1968-08-15,2012-05-14,2020-01-31,2017-11-15,Software,1,2011.0,2818
+Tidak_berpasangan,Wanita,Outsource,Product Manager,Mid_level,Sangat_kurang,Jakarta Selatan,Google_Search,3,5,4,0,14,Magister,jam_kerja,1987-11-07,2013-11-11,2020-01-14,2018-06-08,Product,1,1670.0,2255
+Lainnya,Wanita,Internship,Software Engineer (Front End),Senior_level,Biasa,Jakarta Pusat,Indeed,3,5,0,0,12,Magister,jam_kerja,1986-08-17,2011-05-16,2014-01-10,2018-04-01,Software,1,2512.0,970
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Front End),Senior_level,Sangat_bagus,Jakarta Selatan,LinkedIn,2,5,8,0,19,Magister,kejelasan_karir,1952-01-18,2014-11-10,2020-02-12,2014-08-19,Software,1,-83.0,1920
+Berpasangan,Wanita,FullTime,Digital Product Manager,Freshgraduate_program,Sangat_kurang,Jakarta Timur,LinkedIn,4,4,0,0,15,Sarjana,Tidak_Resign,1976-12-26,2013-07-08,2017-06-10,,Product,0,0.0,1433
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (iOS),Freshgraduate_program,Bagus,Jakarta Pusat,LinkedIn,3,5,7,0,20,Sarjana,Tidak_Resign,1989-11-24,2015-03-30,2020-01-10,,Software,0,0.0,1747
+Lainnya,Wanita,FullTime,Product Manager,Freshgraduate_program,Biasa,Jakarta Timur,Website,3,3,0,0,11,Magister,Tidak_Resign,1981-10-26,2013-09-30,2020-01-21,,Product,0,0.0,2304
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Front End),Freshgraduate_program,Sangat_bagus,Jakarta Utara,Google_Search,3,4,0,0,10,Sarjana,Tidak_Resign,1981-09-05,2011-09-26,2012-10-22,,Software,0,0.0,392
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Front End),Freshgraduate_program,Biasa,Jakarta Pusat,Indeed,2,3,0,4,16,Sarjana,Tidak_Resign,1985-01-07,2011-01-10,2017-04-05,,Software,0,0.0,2277
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Front End),Freshgraduate_program,Sangat_bagus,Jakarta Selatan,LinkedIn,4,4,0,0,16,Magister,Tidak_Resign,1986-12-10,2011-07-05,2013-07-02,,Software,0,0.0,728
+Tidak_berpasangan,Pria,FullTime,Product Manager,Senior_level,Sangat_bagus,Jakarta Barat,LinkedIn,3,5,0,0,1,Magister,Tidak_Resign,1983-07-10,2011-07-05,2020-01-17,,Product,0,0.0,3118
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Back End),Freshgraduate_program,Sangat_bagus,Jakarta Barat,LinkedIn,3,4,5,0,13,Sarjana,Tidak_Resign,1983-02-09,2016-06-30,2020-01-14,,Software,0,0.0,1293
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Front End),Freshgraduate_program,Kurang,Jakarta Utara,Indeed,2,2,0,3,4,Magister,Tidak_Resign,1976-11-15,2011-02-21,2013-04-12,,Software,0,0.0,781
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Back End),Freshgraduate_program,Sangat_bagus,Jakarta Timur,Other,3,4,0,0,15,Magister,Tidak_Resign,1975-09-16,2007-06-25,2011-07-14,,Software,0,0.0,1480
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Back End),Freshgraduate_program,Sangat_kurang,Jakarta Barat,Diversity_Job_Fair,4,5,3,0,13,Magister,Tidak_Resign,1979-02-20,2011-11-07,2016-08-16,,Software,0,0.0,1744
+Tidak_berpasangan,Wanita,FullTime,Product Manager,Senior_level,Biasa,Jakarta Pusat,LinkedIn,2,3,0,0,3,Sarjana,Tidak_Resign,1988-09-19,2011-07-05,2013-05-15,,Product,0,0.0,680
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Back End),Freshgraduate_program,Bagus,Jakarta Timur,LinkedIn,3,3,0,0,7,Sarjana,Tidak_Resign,1972-09-11,2012-11-05,2020-01-17,,Software,0,0.0,2629
+Berpasangan,Wanita,FullTime,Software Engineer (Back End),Senior_level,Biasa,Jakarta Selatan,Indeed,4,3,0,0,10,Sarjana,Tidak_Resign,1954-09-21,2012-07-02,2020-01-17,,Software,0,0.0,2755
+Berpasangan,Wanita,FullTime,Software Engineer (Back End),Freshgraduate_program,Sangat_bagus,Jakarta Selatan,LinkedIn,2,5,0,0,4,Doktor,Tidak_Resign,1984-03-11,2016-06-06,2020-01-18,,Software,0,0.0,1321
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Back End),Freshgraduate_program,Biasa,Jakarta Barat,Indeed,2,4,0,0,11,Sarjana,Tidak_Resign,1979-02-12,2014-05-12,2020-02-19,,Software,0,0.0,2109
+Berpasangan,Pria,FullTime,Product Design (UI & UX),Freshgraduate_program,Bagus,Jakarta Pusat,Google_Search,3,3,0,0,10,Sarjana,Tidak_Resign,1982-09-02,2012-05-14,2020-02-22,,Product,0,0.0,2840
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Front End),Senior_level,Kurang,Jakarta Barat,LinkedIn,3,4,0,0,7,Magister,leadership,1987-09-27,2014-02-17,2020-01-07,2017-11-15,Software,1,1367.0,2150
+Lainnya,Pria,FullTime,Product Manager,Mid_level,Biasa,Jakarta Selatan,LinkedIn,2,3,0,0,14,Doktor,jam_kerja,1992-08-17,2011-11-07,2020-01-08,2018-06-08,Product,1,2405.0,2984
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Back End),Freshgraduate_program,Bagus,Jakarta Timur,CareerBuilder,3,3,0,0,13,Magister,kejelasan_karir,1986-04-26,2010-08-30,2020-01-10,2018-04-01,Software,1,2771.0,3420
+Tidak_berpasangan,Pria,FullTime,Data Analyst,Mid_level,Sangat_bagus,Jakarta Utara,LinkedIn,4,5,0,0,13,Magister,Tidak_Resign,1986-12-09,2012-07-09,2020-02-04,,Data,0,0.0,2766
+Tidak_berpasangan,Pria,FullTime,Product Manager,Freshgraduate_program,Bagus,Jakarta Utara,Diversity_Job_Fair,3,3,0,0,15,Sarjana,Tidak_Resign,1974-02-21,2012-04-02,2017-05-06,,Product,0,0.0,1860
+Tidak_berpasangan,Wanita,FullTime,Product Design (UI & UX),Freshgraduate_program,Bagus,Jakarta Pusat,LinkedIn,3,4,0,0,13,Doktor,Tidak_Resign,1980-04-18,2013-07-08,2020-01-22,,Product,0,0.0,2389
+Tidak_berpasangan,Wanita,FullTime,Software Engineer (Back End),Mid_level,Bagus,Jakarta Timur,Employee_Referral,3,5,7,0,16,Sarjana,Tidak_Resign,1984-09-16,2014-11-10,2020-01-04,,Software,0,0.0,1881
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Front End),Freshgraduate_program,Sangat_bagus,Jakarta Pusat,Indeed,2,5,7,0,15,Sarjana,Tidak_Resign,1983-09-04,2017-02-15,2020-01-23,,Software,0,0.0,1072
+Tidak_berpasangan,Wanita,FullTime,Data Engineer,Mid_level,Bagus,Jakarta Pusat,Google_Search,2,5,0,0,16,Sarjana,Tidak_Resign,1973-12-08,2011-09-26,2016-03-01,,Data,0,0.0,1618
+Lainnya,Wanita,FullTime,Product Design (UI & UX),Freshgraduate_program,Biasa,Jakarta Timur,LinkedIn,4,5,0,0,11,Sarjana,jam_kerja,1974-12-01,2013-05-13,2020-01-28,2017-11-15,Product,1,1647.0,2451
+Berpasangan,Wanita,FullTime,Software Engineer (Front End),Senior_level,Biasa,Jakarta Pusat,Diversity_Job_Fair,2,5,0,0,17,Sarjana,ganti_karir,1969-10-30,2013-11-11,2020-01-21,2018-06-08,Software,1,1670.0,2262
+Tidak_berpasangan,Pria,FullTime,Software Engineer (Android),Mid_level,Bagus,Jakarta Utara,Google_Search,4,5,0,0,20,Sarjana,kejelasan_karir,1981-10-01,2011-05-16,2014-04-05,2018-04-01,Software,1,2512.0,1055
+Berpasangan,Pria,Internship,Data Analyst,Mid_level,Bagus,Jakarta Barat,Indeed,4,3,0,0,2,Sarjana,Tidak_Resign,1981-08-10,2012-08-16,2020-01-14,,Data,0,0.0,2707
